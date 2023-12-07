@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: hsl(0, 0%, 20%);
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: fit-content;
+  height: fit-content;
+  margin-top: 5rem;
+}
